@@ -8,5 +8,6 @@ The answer was to loop my rotten orange in the queue each time we got orange to 
 
 
 TO RUN:
-
+```sh
 go test main.go main_test.go
+```
